@@ -1,0 +1,16 @@
+# Compiled Executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Data output files / transient runtime data
+Task2_Login_System/data/
+Task4_Banking_System/data/
+data/
+
+# OS / IDE generated files
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
